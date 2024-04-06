@@ -1,4 +1,5 @@
-https://github.com/Nuriua/Composition2.0/assets/54796379/00cca410-b4eb-478e-8416-402e6e1187ad
+https://github.com/Nuriua/Composition_Game/assets/54796379/62f58ebd-2f76-4d43-9bfd-1c89e9df92e6
+
 
 *************
 The mobile application is a game in which you need to temporarily determine the composition of a number. 
